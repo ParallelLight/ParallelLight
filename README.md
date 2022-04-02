@@ -15,19 +15,23 @@
 
 <br>
 
-<p align="center">
+<div align="center">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
+
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+
 <img src="https://komarev.com/ghpvc/?username=ParallelLight&color=0EA5D6&label=ZhangZe's+Profile+ViewS" />
-</p>
+</div>
 
 <br>
 
