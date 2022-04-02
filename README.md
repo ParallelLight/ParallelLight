@@ -2,15 +2,15 @@
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ParallelLight&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ParallelLight&theme=radical">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParallelLight&show_icons=true&theme=tokyonight&line_height=40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParallelLight&theme=radical" />
 </p>
 
 <br>
 
 <p align="center">
-<h2 align="center">Some Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">Some Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></h2>
 </p>
 
 <br>
@@ -36,7 +36,21 @@
 <br>
 
 <p align = "center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ParallelLight&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?username=ParallelLight&theme=redical" />
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParallelLight&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-<img src="https://cdn.jsdelivr.net/gh/ParallelLight/personal-picture/202203261059653.gif"/>
+<img src="https://cdn.jsdelivr.net/gh/ParallelLight/personal-picture/202203261059653.gif" />
 </p>
+
+<div align="center">
+  
+[![Github](https://img.shields.io/badge/Github-ParallelLight-%230D1117.svg)](https://github.com/ParallelLight)
+[![Zhihu](https://img.shields.io/badge/Zhihu-知乎-%230066FF.svg)](https://www.zhihu.com/people/parallellight)
+[![CSDN](https://img.shields.io/badge/CSDN-博客-%23FC5531.svg)](https://blog.csdn.net/weixin_44421798)
+[![WeChat](https://img.shields.io/badge/WeChat-微信公众号-%2307C160.svg)](https://mp.weixin.qq.com/s/DPMcvwlsQyWs8s2YCgHgUg)
+[![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩-%2300A1D6.svg)](https://space.bilibili.com/252451772)
+  
+</div>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/ParallelLight/personal-picture/202203260000242.jpg" />
+</div>
