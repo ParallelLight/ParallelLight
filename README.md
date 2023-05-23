@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to ZhangZe's Github Profile!</h2>
+<h2 align="center">Welcome to Ze Zhang's Github Profile!</h2>
 
 <br>
 
@@ -41,11 +41,11 @@
 </p>
 
 <br>
-<br>
 
 <div align="center">
 
   [![Github](https://img.shields.io/badge/Github-ParallelLight-%230D1117.svg)](https://github.com/ParallelLight)
+  [![YuQue](https://img.shields.io/badge/YuQue-语雀-%2339D27E.svg)](https://www.yuque.com/parallellight)
   [![Zhihu](https://img.shields.io/badge/Zhihu-知乎-%230066FF.svg)](https://www.zhihu.com/people/parallellight)
   [![CSDN](https://img.shields.io/badge/CSDN-博客-%23FC5531.svg)](https://blog.csdn.net/weixin_44421798)
   [![WeChat](https://img.shields.io/badge/WeChat-微信公众号-%2307C160.svg)](https://mp.weixin.qq.com/s/vUkZ7N0cZFGZb-7xuzsgAQ)
