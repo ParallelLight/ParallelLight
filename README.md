@@ -36,7 +36,6 @@
 <br>
 
 <p align = "center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ParallelLight&theme=redical" />
   <img src="https://cdn.jsdelivr.net/gh/ParallelLight/personal-picture/202203261059653.gif" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParallelLight&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
